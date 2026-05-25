@@ -1,5 +1,12 @@
 ### Hi there 👋
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexliap&show_icons=true&hide=contribs&theme=radical)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexliap&hide=jupyter%20notebook"/>
+<table>
+  <tr>
+    <td>
+      <img align="center" src="./profile/stats.svg" />
+    </td>
+    <td>
+      <img align="center" src="./profile/top-langs.svg" />
+    </td>
+  </tr>
+</table>
